@@ -14,7 +14,7 @@ function Header() {
 					<HeaderItem Icon={SearchIcon} title="SEARCH" />
 					<HeaderItem Icon={UserIcon} title="ACCOUNT" />
 				</div>
-				<Image className="object-contain" src="/RMDB.png" height={60} width={125} />
+				<Image className="object-contain" src="/RMDB.png" height={60} width={125} alt="Logo" />
 			</header>
 		</>
 	);
